@@ -3,4 +3,5 @@
     <string name="email">उपयोगकर्ता ईमेल दर्ज करें</string>
     <string name="password">उपयोगकर्ता पासवर्ड दर्ज करें</string>
     <string name="login">लॉग इन करें</string>
+    <string name="login_successfully">सफलतापूर्वक लॉगिन करें</string>
 </resources>

@@ -3,4 +3,5 @@
     <string name="email">Entrez le courriel de lutilisateur</string>
     <string name="password">Entrez le mot de passe utilisateur</string>
     <string name="login">Sidentifier</string>
+    <string name="login_successfully">Connectez-vous avec succès</string>
 </resources>

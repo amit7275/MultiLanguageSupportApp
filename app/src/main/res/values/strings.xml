@@ -3,4 +3,5 @@
     <string name="email">Enter User Email</string>
     <string name="password">Enter User Password</string>
     <string name="login">Login</string>
+    <string name="login_successfully">Login Successfully</string>
 </resources>
